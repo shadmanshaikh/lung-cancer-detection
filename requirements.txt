@@ -1,4 +1,3 @@
-from random import random
 import streamlit as st
 from sklearn.preprocessing import LabelEncoder
 from sklearn.compose import ColumnTransformer
