@@ -91,7 +91,7 @@ predict = RandomForestClassifier.predict(user_input)
 if predict == 0:
     st.write("## Yay! you dont have lung cancer 😊")
 else:
-    st.write("## Seems like you need to consult a diagnosis 😢")
+    st.write("## Seems like you need to consult a doctor 😢")
 
 
 #accuracy score
