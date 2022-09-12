@@ -3,7 +3,7 @@
 
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
-# The demo of the site is hosted on [streamlit](https://shady4real-lung-cancer-detection-lung-cancer-detection-1thcc6.streamlitapp.com/)
+# 🚀 The demo of the site is hosted on [streamlit](https://shady4real-lung-cancer-detection-lung-cancer-detection-1thcc6.streamlitapp.com/)
 
 ## Problem Statement
 Detection of Lung Cancer in a Patient using Random Forest Classifier.
