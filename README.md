@@ -34,7 +34,7 @@ Install all requirements by running the following command
 ![image](https://github.com/shady4real/lung-cancer-detection/blob/main/snapshots/ss_01.png)
 ![image](https://github.com/shady4real/lung-cancer-detection/blob/main/snapshots/ss_02.png)
 ![image](https://github.com/shady4real/lung-cancer-detection/blob/main/snapshots/ss_03.png)
-![image](https://github.com/shady4real/lung-cancer-detection/blob/main/snapshots/ss_04.png)
+
 
 ## Issues 
 
